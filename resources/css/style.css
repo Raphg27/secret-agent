@@ -184,12 +184,12 @@ body {
   }
 
 .banner {
-  height: 18rem;
-
+  height: 18rem
 }
+
 .headline {
   padding: 1rem 2rem;
-  width: 100%;
+  width: 80%;
   top: 10rem;
 }
 
